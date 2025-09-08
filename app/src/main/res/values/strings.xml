@@ -1,6 +1,16 @@
 <resources>
+    <string name="app_name">appLista</string>
     <string name="app_logo_description">Logo do aplicativo</string>
     <string name="email_hint">Digite seu e-mail</string>
     <string name="password_hint">Digite sua senha</string>
     <string name="login_button_text">Entrar</string>
+    <string name="profile_image_description">Imagem de perfil do usuário</string>
+    <string name="user_name_placeholder">Nome do Usuário</string>
+    <string name="user_handle_placeholder">\@username</string>
+    <string name="user_bio_placeholder">Esta é a bio do usuário. Aqui ele pode descrever um pouco sobre si mesmo e seus interesses.</string>
+    <string name="followers_label">Seguidores</string>
+    <string name="following_label">Seguindo</string>
+    <string name="followers_count">1,234</string>
+    <string name="following_count">567</string>
 </resources>
+
